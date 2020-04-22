@@ -1,0 +1,57 @@
+img{  
+  width:800px;
+  align: center;
+  postion: top;
+  top:0;
+  display: flex;
+position:absolute;
+  
+  
+}
+main{
+  text-align: flex-start;
+  width: 600px;
+  height: flex;
+background:white;
+  color: #222222;
+  margin-left:100px;
+ 
+  }  
+h1{
+  font-family: 'Abril Fatface', cursive;
+  
+}
+p, ul{
+  
+  font-family: 'Josefin Sans', sans-serif;
+} 
+}
+blockquote{
+ display: block;
+  margin-left: 40px;
+  margin-right: 40px;
+color: #222222;
+    background: border-box;
+ font-family: 'Abril Fatface', cursive;  
+  position: absolute;
+  
+}
+div{
+  width:600px;
+  height:50px;
+  background:#222222;
+  
+}
+section{
+  display:flex;
+ 
+}
+#Anakin{
+ position:absolute;
+ width:300px;
+align-content:flex-start;
+justify-content: flex-start;
+  align-content:flex-end;
+flex-wrap: wrap;
+padding:0;
+}
